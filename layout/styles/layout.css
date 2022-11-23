@@ -55,7 +55,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 /* ----------------------------------------------Topbar------------------------------------- */
 
-#topbar{padding:15px 0; border-bottom:1px solid #999999;}
+#topbar{padding:15px 0; border-bottom:1px solid #999999; font-size:26px;}
 #topbar .fl_left{margin:8px 0 0 0; padding:0;}
 #topbar .fl_left, #topbar .fl_left a{color:#999999; background-color:#E0E0E0;}
 
